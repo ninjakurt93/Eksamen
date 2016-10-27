@@ -9,7 +9,7 @@ Så er vi igang
 Sune: intro
 
 
-Patrick: open source, konkurrenter 
+Patrick: Open-Source, Konkurrenter
 
 
 HippieFighter (Daniel): Live demo
