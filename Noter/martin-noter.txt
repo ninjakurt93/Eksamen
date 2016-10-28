@@ -1,0 +1,15 @@
+Teknisk om git: 
+
+Git pull: 
+For at synkronisere med det eksisterende git repo, skal man lave et pull/sync, og pull er i virkeligheden en kombination af fetch og merge. 
+
+Git add [FILE]:
+Git add, der tilføjer du de filer som skal skubbes in i repo. 
+
+Git commit: 
+Git commit er her hvor du sender de filer du har addet til dit staging area og hvor du laver en kommentar om hvad der er ændret. 
+
+Git push: 
+Her skubber du dine ændringer til masterbranchen
+
+
