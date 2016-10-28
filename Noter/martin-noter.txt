@@ -12,4 +12,4 @@ Git commit er her hvor du sender de filer du har addet til dit staging area og h
 Git push: 
 Her skubber du dine ændringer til masterbranchen
 
-
+Blah
